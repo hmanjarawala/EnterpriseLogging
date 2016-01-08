@@ -1,0 +1,9 @@
+D:\Himanshu.Manjarawala\E drive\Himanshu\EnterpriseLogging\My.Enterprise.LoggingApp\bin\Debug\My.Enterprise.LoggingApp.exe.config
+D:\Himanshu.Manjarawala\E drive\Himanshu\EnterpriseLogging\My.Enterprise.LoggingApp\bin\Debug\My.Enterprise.LoggingApp.exe
+D:\Himanshu.Manjarawala\E drive\Himanshu\EnterpriseLogging\My.Enterprise.LoggingApp\bin\Debug\My.Enterprise.LoggingApp.pdb
+D:\Himanshu.Manjarawala\E drive\Himanshu\EnterpriseLogging\My.Enterprise.LoggingApp\bin\Debug\log4net.dll
+D:\Himanshu.Manjarawala\E drive\Himanshu\EnterpriseLogging\My.Enterprise.LoggingApp\bin\Debug\My.Enterprise.Logging.dll
+D:\Himanshu.Manjarawala\E drive\Himanshu\EnterpriseLogging\My.Enterprise.LoggingApp\bin\Debug\My.Enterprise.Logging.pdb
+D:\Himanshu.Manjarawala\E drive\Himanshu\EnterpriseLogging\My.Enterprise.LoggingApp\obj\Debug\My.Enterprise.LoggingApp.csprojResolveAssemblyReference.cache
+D:\Himanshu.Manjarawala\E drive\Himanshu\EnterpriseLogging\My.Enterprise.LoggingApp\obj\Debug\My.Enterprise.LoggingApp.exe
+D:\Himanshu.Manjarawala\E drive\Himanshu\EnterpriseLogging\My.Enterprise.LoggingApp\obj\Debug\My.Enterprise.LoggingApp.pdb

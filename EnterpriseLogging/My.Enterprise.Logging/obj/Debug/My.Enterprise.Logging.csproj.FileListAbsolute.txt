@@ -1,0 +1,5 @@
+D:\Himanshu.Manjarawala\E drive\Himanshu\EnterpriseLogging\My.Enterprise.Logging\bin\Debug\My.Enterprise.Logging.dll
+D:\Himanshu.Manjarawala\E drive\Himanshu\EnterpriseLogging\My.Enterprise.Logging\bin\Debug\My.Enterprise.Logging.pdb
+D:\Himanshu.Manjarawala\E drive\Himanshu\EnterpriseLogging\My.Enterprise.Logging\obj\Debug\My.Enterprise.Logging.csprojResolveAssemblyReference.cache
+D:\Himanshu.Manjarawala\E drive\Himanshu\EnterpriseLogging\My.Enterprise.Logging\obj\Debug\My.Enterprise.Logging.dll
+D:\Himanshu.Manjarawala\E drive\Himanshu\EnterpriseLogging\My.Enterprise.Logging\obj\Debug\My.Enterprise.Logging.pdb

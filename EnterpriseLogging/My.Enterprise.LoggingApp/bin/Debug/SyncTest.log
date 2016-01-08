@@ -1,0 +1,8 @@
+2016-01-07 17:12:28,391 - 1. Log
+2016-01-07 17:12:28,391 - 2. Log Himanshu 175
+2016-01-07 17:12:28,438 - 3. Exception Log
+System.ArgumentException: Invalid Argument
+   at My.Enterprise.LoggingApp.Program.Main(String[] args) in D:\Himanshu.Manjarawala\E drive\Himanshu\EnterpriseLogging\My.Enterprise.LoggingApp\Program.cs:line 21
+2016-01-07 17:12:28,447 - 4. Exception Log Himanshu 175
+System.ArgumentException: Invalid Argument
+   at My.Enterprise.LoggingApp.Program.Main(String[] args) in D:\Himanshu.Manjarawala\E drive\Himanshu\EnterpriseLogging\My.Enterprise.LoggingApp\Program.cs:line 21
